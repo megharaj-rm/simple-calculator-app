@@ -1,4 +1,4 @@
-# Simple Calculator
+# Simple Calculator - Initial Commit
 
 A tiny calculator built with plain HTML, CSS and JavaScript. Used to demo Git, GitHub and CI with GitHub Actions.
 
